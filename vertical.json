@@ -1,0 +1,11 @@
+{
+  "product_id": "therapist",
+  "display_name": "TherapistTasksAI",
+  "tool_prefix": "therapisttasksai",
+  "api_base_url": "https://api.lawtasksai.com",
+  "website_url": "https://therapisttasksai.com",
+  "billing_url": "https://therapisttasksai.com/buy-credits.html",
+  "support_email": "support@therapisttasksai.com",
+  "privacy_summary": "TherapistTasksAI servers handle authentication, credits, catalog/search metadata, and licensed skill delivery. TherapistTasksAI does not process the user's task content. The user's chosen AI assistant or LLM performs the task work according to that provider's privacy terms.",
+  "first_prompt": "Check my TherapistTasksAI credit balance."
+}
